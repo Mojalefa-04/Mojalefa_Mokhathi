@@ -3,8 +3,8 @@
 # Hi there I'm Progress Mojalefa
 
  Mathematical Statistics Graduate  
- Aspiring Data Scientist & Quant Analyst  
- Interested in Financial Analytics, Risk Modelling & Machine Learning
+ Aspiring Data Scientist   
+ Machine Learning
 
 ---
 
@@ -18,7 +18,6 @@ I specialize in statistical modelling, machine learning, and data analysis using
 - Programming: R, Python, SQL
 - Data Analysis: Excel (Advanced), SAS
 - Machine Learning & Statistics
-- Financial Risk Modelling
 - Time Series Analysis
 - Data Visualization
 
@@ -39,6 +38,7 @@ I specialize in statistical modelling, machine learning, and data analysis using
 - SAS
 - Excel
 - Git & GitHub
+- Tableau
 
 ---
 
