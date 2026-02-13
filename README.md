@@ -48,6 +48,6 @@ I specialize in statistical modelling, machine learning, and data analysis using
 
 ---
 
-## Contact Me
+## Contacts 
 - LinkedIn: https://www.linkedin.com/in/mojalefa-mokhathi-81540224a
 - Email: progressmokhathi@gmail.com
