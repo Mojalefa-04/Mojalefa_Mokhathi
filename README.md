@@ -1,4 +1,4 @@
-# Mojalefa_Mokhathi
+# Mojalefa Mokhathi
 
 # Hi there I'm Progress Mojalefa
 
