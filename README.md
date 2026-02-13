@@ -2,9 +2,9 @@
 
 # Hi there I'm Progress Mojalefa
 
- Mathematical Statistics Graduate  
+ BSc Mathematical Statistics Graduate  
  Aspiring Data Scientist   
- Machine Learning
+ Machine Learning 
 
 ---
 
@@ -24,11 +24,10 @@ I specialize in statistical modelling, machine learning, and data analysis using
 ---
 
 ## Featured Projects
-- Credit Risk Prediction Model
-- Absenteeism Machine Learning Model
-- Financial Risk (VaR & TailVaR) Analysis
-- Portfolio Optimization Study
 
+- Absenteeism Machine Learning Model
+- Currently working on Customer behaviour Machine Learning Model 
+  
 ---
 
 ## Tools & Technologies
@@ -43,9 +42,9 @@ I specialize in statistical modelling, machine learning, and data analysis using
 ---
 
 ## Current Focus
-- Financial Data Science
-- Quantitative Analytics
-- Machine Learning Applications in Finance
+- Data Science
+- Analytics
+- Machine Learning 
 
 ---
 
